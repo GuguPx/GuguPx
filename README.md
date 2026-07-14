@@ -81,3 +81,9 @@ Experiência no desenvolvimento de sistemas internos voltados para:
 ## Objetivo profissional
 
 Continuar evoluindo como profissional de DevOps e desenvolvimento full-stack, criando aplicações confiáveis, escaláveis e capazes de resolver problemas reais de negócio.
+
+ <div>
+   <a href="https://github.com/GuguPx">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuguPx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
