@@ -1,112 +1,131 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuguPx/GuguPx/main/assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuguPx/GuguPx/main/assets/light.svg">
-  <img alt="Banner animado de Augusto Silva — DevOps Engineer e Full-Stack Developer" src="https://raw.githubusercontent.com/GuguPx/GuguPx/main/assets/light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+  <img src="./assets/terminal-light.svg" width="100%" alt="Terminal animado de Augusto Silva, DevOps Engineer e Full-Stack Developer">
 </picture>
 
-# Olá, eu sou Augusto Silva 👋
+<div align="center">
+  <strong>DevOps Engineer · Full-Stack Developer</strong><br>
+  Automação · Integrações · Infraestrutura · Observabilidade
+</div>
 
-Sou **DevOps Engineer e desenvolvedor Full-Stack**, com foco na criação de plataformas internas, automações, integrações entre sistemas e infraestrutura para aplicações web.
+<br>
 
-Atuo em diferentes etapas do ciclo de desenvolvimento: levantamento de requisitos, modelagem de dados, implementação, testes, implantação, monitoramento e manutenção de aplicações em produção.
+## `augusto@devops:~$ cat about.md`
 
-Meu objetivo é construir soluções confiáveis, escaláveis e capazes de resolver problemas reais de negócio.
+Sou **Augusto Silva**, profissional de **DevOps e desenvolvimento Full-Stack**. Trabalho na construção de plataformas internas, APIs, integrações e automações, acompanhando o software desde o levantamento de requisitos e modelagem dos dados até a implantação, o monitoramento e a manutenção em produção.
 
-## Minha atuação
+Meu foco é transformar necessidades operacionais em sistemas confiáveis, escaláveis e fáceis de manter — reduzindo trabalho manual, conectando serviços e criando visibilidade sobre o que acontece em cada etapa da operação.
 
-Trabalho principalmente com:
+```text
+status  : construindo soluções para problemas reais de negócio
+focus   : automação, arquitetura, cloud e observabilidade
+method  : code → build → deploy → monitor → improve
+```
 
-- Desenvolvimento de aplicações web full-stack;
-- Criação de APIs REST e integrações entre sistemas;
-- Desenvolvimento de CRMs, dashboards e plataformas internas;
-- Automação de processos operacionais e empresariais;
-- Modelagem e administração de bancos de dados;
-- Containerização e implantação de aplicações com Docker;
-- Configuração de pipelines de CI/CD;
-- Administração de servidores Linux;
-- Monitoramento, observabilidade e centralização de logs.
+## `augusto@devops:~$ ls -la ./work`
 
-## Fluxo de trabalho
+| Diretório | O que desenvolvo |
+|---|---|
+| `applications/` | Aplicações web responsivas, interfaces administrativas e experiências internas com React e Next.js. |
+| `apis/` | APIs REST, autenticação, regras de negócio, filas e integrações com sistemas externos. |
+| `platforms/` | CRMs, dashboards, gestão de colaboradores e ferramentas para processos empresariais. |
+| `automation/` | Rotinas que criam tarefas, sincronizam dados, eliminam etapas manuais e conectam operações. |
+| `infrastructure/` | Containers, proxy reverso, processos, pipelines de CI/CD e implantação em servidores Linux. |
+| `observability/` | Logs, monitoramento, diagnóstico de falhas e melhoria contínua da confiabilidade. |
 
-O banner deste perfil representa as principais etapas presentes no meu trabalho:
+## `augusto@devops:~$ ./pipeline --mode production`
 
-### Code
+```text
+[ CODE    ] Git · TypeScript · JavaScript · React · Node.js
+     │
+[ BUILD   ] validações · testes · dependências · modelagem de dados
+     │
+[ DEPLOY  ] Docker · Docker Compose · GitHub Actions · Nginx · PM2
+     │
+[ MONITOR ] Linux · logs · Zabbix · análise de erros · manutenção
+     │
+[ IMPROVE ] automação · segurança · desempenho · escalabilidade
+```
 
-Desenvolvimento de interfaces, APIs, integrações e regras de negócio utilizando Git, TypeScript, JavaScript, React, Node.js e outras tecnologias do ecossistema web.
+## `augusto@devops:~$ cat /etc/stack.conf`
 
-### Build
+```ini
+[frontend]
+frameworks = React, Next.js
+language = TypeScript, JavaScript
+ui = Tailwind CSS
+state = React Query, Zustand
 
-Organização da aplicação, gerenciamento de dependências, testes, validações, modelagem de dados e preparação dos serviços para diferentes ambientes.
+[backend]
+runtime = Node.js
+frameworks = NestJS, Express
+orm = Prisma
+security = JWT
+queues = BullMQ
+interfaces = REST APIs
 
-### Deploy
+[data]
+databases = PostgreSQL, MySQL
+cache = Redis
+storage = AWS S3
 
-Containerização com Docker, configuração de Nginx, gerenciamento de processos, pipelines automatizados e publicação das aplicações em servidores e serviços de nuvem.
+[devops]
+containers = Docker, Docker Compose
+ci_cd = GitHub Actions
+proxy = Nginx
+process_manager = PM2
+operating_system = Linux
 
-### Monitor
+[tooling]
+version_control = Git, GitHub
+testing = Playwright
+api_client = Postman
+monitoring = Zabbix
+design = Figma
+```
 
-Acompanhamento de aplicações em produção, análise de logs, identificação de erros, manutenção de servidores Linux e melhoria contínua da confiabilidade dos sistemas.
+## `augusto@devops:~$ find ./projects -maxdepth 2 -type f`
 
-## Tecnologias
+### [`./public/conecta-sus`](https://github.com/GuguPx/conecta-sus)
 
-### Frontend
+Aplicação web em React e TypeScript voltada à apresentação de serviços e conteúdos relacionados à saúde pública.
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `React Query` · `Zustand`
+```text
+features : interface responsiva, quiz com pontuação, busca e paginação
+state    : Zustand
+motion   : Framer Motion
+stack    : React, TypeScript, Vite, Tailwind CSS
+```
 
-### Backend
+### `./enterprise/internal-platforms`
 
-`Node.js` · `NestJS` · `Express` · `Prisma` · `REST APIs` · `JWT` · `BullMQ`
+Experiência na construção de sistemas internos para:
 
-### Bancos de dados
+- gestão de leads, prospecções e negociações;
+- recursos humanos e gestão de colaboradores;
+- integrações com sistemas ERP;
+- automação de atendimentos e tarefas;
+- dashboards operacionais e gerenciais;
+- centralização de logs e monitoramento;
+- pipelines de implantação e atualização.
 
-`PostgreSQL` · `Redis` · `MySQL`
+## `augusto@devops:~$ tail -f learning.log`
 
-### DevOps e infraestrutura
+```text
+[active] arquitetura de software
+[active] design patterns
+[active] segurança de aplicações
+[active] observabilidade
+[active] cloud e infraestrutura
+[active] testes automatizados
+[active] desenvolvimento mobile
+```
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Nginx` · `PM2` · `Linux` · `CI/CD` · `AWS S3`
+## `augusto@devops:~$ echo $GOAL`
 
-### Ferramentas
+> Continuar evoluindo em DevOps e desenvolvimento Full-Stack, aprofundando conhecimentos em arquitetura, automação, cloud e observabilidade para entregar aplicações cada vez mais seguras, escaláveis e sustentáveis.
 
-`Git` · `GitHub` · `Postman` · `Playwright` · `Zabbix` · `Figma`
-
-## Projetos e experiências
-
-### Conecta SUS
-
-Aplicação web desenvolvida com React e TypeScript para apresentar serviços, conteúdos e funcionalidades relacionadas à saúde pública.
-
-Principais recursos:
-
-- Interface responsiva;
-- Sistema de quiz com pontuação;
-- Busca e paginação de registros;
-- Gerenciamento de estado com Zustand;
-- Animações com Framer Motion;
-- Estrutura preparada para deploy na Vercel.
-
-**Tecnologias:** React, TypeScript, Vite, Tailwind CSS, Zustand e Framer Motion.
-
-### Plataformas empresariais
-
-Também possuo experiência no desenvolvimento de sistemas internos voltados para:
-
-- Gestão de leads, prospecções e negociações;
-- Recursos humanos e gestão de colaboradores;
-- Integrações com sistemas ERP;
-- Automação de atendimentos e tarefas;
-- Dashboards operacionais e gerenciais;
-- Centralização de logs e monitoramento;
-- Pipelines de implantação e atualização de aplicações.
-
-## Atualmente estudando
-
-- Arquitetura de software;
-- Design Patterns;
-- Segurança de aplicações;
-- Observabilidade;
-- Cloud e infraestrutura;
-- Testes automatizados;
-- Desenvolvimento de aplicações mobile.
-
-## Objetivo profissional
-
-Continuar evoluindo nas áreas de DevOps e desenvolvimento full-stack, aprofundando meus conhecimentos em arquitetura, automação, cloud e observabilidade para desenvolver aplicações cada vez mais seguras, escaláveis e fáceis de manter.
+<div align="center">
+  <sub>Built as code. Shipped with automation. Monitored in production.</sub>
+</div>
