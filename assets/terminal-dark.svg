@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Augusto Silva — DevOps Terminal</title><desc id="desc">Terminal animado com perfil, stack e pipeline DevOps de Augusto Silva.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#05080d"/><stop offset=".55" stop-color="#0d1117"/><stop offset="1" stop-color="#07150f"/></linearGradient>
+<linearGradient id="pipe"><stop stop-color="#58a6ff"/><stop offset=".35" stop-color="#3fb950"/><stop offset=".68" stop-color="#d29922"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7d8590" stroke-opacity=".12"/></pattern>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="620" rx="26" fill="url(#bg)"/><rect width="1200" height="620" rx="26" fill="url(#grid)"/>
+<rect x="18" y="18" width="1164" height="584" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="48" rx="20" fill="#161b22"/><rect x="18" y="46" width="1164" height="20" fill="#161b22"/>
+<circle cx="45" cy="42" r="6" fill="#ff7b72"/><circle cx="66" cy="42" r="6" fill="#d29922"/><circle cx="87" cy="42" r="6" fill="#3fb950"/>
+<text x="600" y="47" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">augusto@devops:~/github-profile — bash</text>
+<circle cx="1125" cy="42" r="5" fill="#3fb950" filter="url(#glow)"><animate attributeName="opacity" values=".2;1;.2" dur="1.6s" repeatCount="indefinite"/></circle><text x="1138" y="47" fill="#3fb950" font-family="monospace" font-size="11">ONLINE</text>
+
+<rect x="38" y="86" width="292" height="490" rx="14" fill="#111820" stroke="#30363d"/>
+<text x="58" y="118" fill="#3fb950" font-family="monospace" font-size="15" font-weight="700">SYSTEM PROFILE</text><line x1="58" y1="130" x2="308" y2="130" stroke="#30363d"/>
+<g font-family="monospace" font-size="13"><text fill="#8b949e"><tspan x="58" y="160">user</tspan><tspan x="58" y="185">role</tspan><tspan x="58" y="210">mode</tspan><tspan x="58" y="235">os</tspan><tspan x="58" y="260">runtime</tspan><tspan x="58" y="285">database</tspan><tspan x="58" y="310">pipeline</tspan><tspan x="58" y="335">proxy</tspan></text>
+<text fill="#e6edf3"><tspan x="145" y="160">Augusto Silva</tspan><tspan x="145" y="185" fill="#58a6ff">DevOps Engineer</tspan><tspan x="145" y="210" fill="#bc8cff">Full-Stack</tspan><tspan x="145" y="235">Linux / Debian</tspan><tspan x="145" y="260">Node.js</tspan><tspan x="145" y="285" fill="#3fb950">PostgreSQL</tspan><tspan x="145" y="310" fill="#d29922">GitHub Actions</tspan><tspan x="145" y="335">Nginx</tspan></text></g>
+<text x="58" y="378" fill="#3fb950" font-family="monospace" font-size="13" font-weight="700">SERVICE HEALTH</text>
+<g font-family="monospace" font-size="11"><text x="58" y="406" fill="#8b949e">automation</text><text x="290" y="406" text-anchor="end" fill="#3fb950">RUNNING</text><rect x="58" y="416" width="232" height="7" rx="4" fill="#30363d"/><rect x="58" y="416" width="0" height="7" rx="4" fill="#3fb950"><animate attributeName="width" values="0;226;226" keyTimes="0;.7;1" dur="4s" repeatCount="indefinite"/></rect>
+<text x="58" y="450" fill="#8b949e">deployments</text><text x="290" y="450" text-anchor="end" fill="#58a6ff">READY</text><rect x="58" y="460" width="232" height="7" rx="4" fill="#30363d"/><rect x="58" y="460" width="0" height="7" rx="4" fill="#58a6ff"><animate attributeName="width" values="0;216;216" keyTimes="0;.72;1" dur="4s" begin=".5s" repeatCount="indefinite"/></rect>
+<text x="58" y="494" fill="#8b949e">observability</text><text x="290" y="494" text-anchor="end" fill="#bc8cff">ACTIVE</text><rect x="58" y="504" width="232" height="7" rx="4" fill="#30363d"/><rect x="58" y="504" width="0" height="7" rx="4" fill="#bc8cff"><animate attributeName="width" values="0;220;220" keyTimes="0;.74;1" dur="4s" begin="1s" repeatCount="indefinite"/></rect></g>
+<text x="58" y="548" fill="#8b949e" font-family="monospace" font-size="10">MISSION</text><text x="58" y="565" fill="#3fb950" font-family="monospace" font-size="12">ship reliable software</text>
+
+<rect x="350" y="86" width="812" height="330" rx="14" fill="#090d12" stroke="#30363d"/>
+<text x="374" y="120" fill="#3fb950" font-family="monospace" font-size="14">augusto@devops</text><text x="498" y="120" fill="#8b949e" font-family="monospace" font-size="14">:</text><text x="510" y="120" fill="#58a6ff" font-family="monospace" font-size="14">~/profile</text><text x="585" y="120" fill="#e6edf3" font-family="monospace" font-size="14">$ ./boot-profile --verbose</text>
+<g font-family="monospace" font-size="14">
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.05;.09;1" dur="9s" repeatCount="indefinite"/><text x="374" y="154" fill="#3fb950">[ OK ]</text><text x="432" y="154" fill="#e6edf3">loading identity ........ Augusto Silva</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.15;.19;1" dur="9s" repeatCount="indefinite"/><text x="374" y="182" fill="#3fb950">[ OK ]</text><text x="432" y="182" fill="#e6edf3">mounting role ........... DevOps + Full-Stack</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.25;.29;1" dur="9s" repeatCount="indefinite"/><text x="374" y="210" fill="#3fb950">[ OK ]</text><text x="432" y="210" fill="#e6edf3">starting automation ..... APIs, tasks, integrations</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.35;.39;1" dur="9s" repeatCount="indefinite"/><text x="374" y="238" fill="#3fb950">[ OK ]</text><text x="432" y="238" fill="#e6edf3">connecting data ......... PostgreSQL, Redis, MySQL</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.45;.49;1" dur="9s" repeatCount="indefinite"/><text x="374" y="266" fill="#3fb950">[ OK ]</text><text x="432" y="266" fill="#e6edf3">building containers ..... Docker Compose</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.55;.59;1" dur="9s" repeatCount="indefinite"/><text x="374" y="294" fill="#3fb950">[ OK ]</text><text x="432" y="294" fill="#e6edf3">configuring delivery .... Actions, Nginx, PM2</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.65;.69;1" dur="9s" repeatCount="indefinite"/><text x="374" y="322" fill="#3fb950">[ OK ]</text><text x="432" y="322" fill="#e6edf3">enabling monitoring ..... Linux, logs, Zabbix</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.75;.79;1" dur="9s" repeatCount="indefinite"/><text x="374" y="356" fill="#58a6ff">PROFILE READY</text><text x="497" y="356" fill="#8b949e">— solving real business problems</text></g>
+<text x="374" y="390" fill="#3fb950">$</text><rect x="392" y="376" width="9" height="18" fill="#e6edf3"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect></g>
+
+<rect x="350" y="436" width="812" height="140" rx="14" fill="#111820" stroke="#30363d"/><text x="374" y="468" fill="#3fb950" font-family="monospace" font-size="13" font-weight="700">DELIVERY PIPELINE</text>
+<line x1="420" y1="520" x2="1092" y2="520" stroke="#30363d" stroke-width="8" stroke-linecap="round"/><line x1="420" y1="520" x2="1092" y2="520" stroke="url(#pipe)" stroke-width="3" stroke-dasharray="22 18"><animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2.2s" repeatCount="indefinite"/></line>
+<g font-family="monospace" text-anchor="middle" font-weight="700"><circle cx="420" cy="520" r="27" fill="#0d1b2c" stroke="#58a6ff" stroke-width="2"/><text x="420" y="525" fill="#58a6ff">CODE</text><circle cx="644" cy="520" r="27" fill="#102316" stroke="#3fb950" stroke-width="2"/><text x="644" y="525" fill="#3fb950">BUILD</text><circle cx="868" cy="520" r="27" fill="#271f0d" stroke="#d29922" stroke-width="2"/><text x="868" y="525" fill="#d29922">DEPLOY</text><circle cx="1092" cy="520" r="27" fill="#21152f" stroke="#bc8cff" stroke-width="2"/><text x="1092" y="525" fill="#bc8cff" font-size="12">MONITOR</text></g>
+<circle cx="420" cy="520" r="7" fill="#58a6ff" filter="url(#glow)"><animate attributeName="cx" values="420;644;868;1092;420" keyTimes="0;.29;.58;.87;1" dur="5.4s" repeatCount="indefinite"/><animate attributeName="fill" values="#58a6ff;#3fb950;#d29922;#bc8cff;#58a6ff" dur="5.4s" repeatCount="indefinite"/></circle>
+<text x="756" y="561" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="11">Git · TypeScript · React · Node.js · Docker · PostgreSQL · CI/CD · Linux</text>
+</svg>
