@@ -2,19 +2,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2800\&pause=900\&color=A855F7\&center=true\&vCenter=true\&width=750\&lines=DevOps+Engineer;Full-Stack+Developer;Automation+%26+Observability;Building+Reliable+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Full-Stack+Developer;Automation+%26+Observability;Building+Reliable+Software)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-GuguPx-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GuguPx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Silva-6D28D9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-px-silva/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-A855F7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/GuguPx?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-GuguPx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuguPx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Silva-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-px-silva/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/GuguPx?tab=repositories)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GuguPx\&style=flat-square\&color=7C3AED\&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/GuguPx?style=flat-square\&logo=github\&label=FOLLOWERS\&color=6D28D9)
-![Stars](https://img.shields.io/github/stars/GuguPx?affiliations=OWNER\&style=flat-square\&logo=github\&label=STARS\&color=A855F7)
+![Profile Views](https://komarev.com/ghpvc/?username=GuguPx&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/GuguPx?style=flat-square&logo=github&label=FOLLOWERS&color=6D28D9)
+![Stars](https://img.shields.io/github/stars/GuguPx?affiliations=OWNER&style=flat-square&logo=github&label=STARS&color=A855F7)
 
 </div>
 
@@ -63,7 +63,7 @@ My current ecosystem includes **TypeScript, JavaScript, React, Node.js, PostgreS
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,bash\&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -71,7 +71,7 @@ My current ecosystem includes **TypeScript, JavaScript, React, Node.js, PostgreS
 
 <div align="center">
 
-[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind\&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -79,7 +79,7 @@ My current ecosystem includes **TypeScript, JavaScript, React, Node.js, PostgreS
 
 <div align="center">
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis\&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -87,7 +87,7 @@ My current ecosystem includes **TypeScript, JavaScript, React, Node.js, PostgreS
 
 <div align="center">
 
-[![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,vscode\&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -229,14 +229,14 @@ Focused on designing, building and operating developer tools and full-stack syst
 
 #### Core Skills
 
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square\&logo=typescript\&logoColor=A855F7)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square\&logo=react\&logoColor=A855F7)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square\&logo=nodedotjs\&logoColor=A855F7)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square\&logo=docker\&logoColor=A855F7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square\&logo=postgresql\&logoColor=A855F7)
-![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square\&logo=linux\&logoColor=A855F7)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181B?style=flat-square\&logo=githubactions\&logoColor=A855F7)
-![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square\&logo=nginx\&logoColor=A855F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=A855F7)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=A855F7)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=A855F7)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=A855F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=A855F7)
+![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=A855F7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181B?style=flat-square&logo=githubactions&logoColor=A855F7)
+![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=A855F7)
 
 ---
 
@@ -261,7 +261,7 @@ Focused on designing, building and operating developer tools and full-stack syst
 
 <div align="center">
 
-![Verified](https://img.shields.io/badge/Credentials-Verified%20Only-6D28D9?style=for-the-badge\&logo=checkmarx\&logoColor=white)
+![Verified](https://img.shields.io/badge/Credentials-Verified%20Only-6D28D9?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -273,7 +273,7 @@ Only publicly verifiable credentials are included in this profile. Certification
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-GuguPx-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GuguPx)
+[![GitHub](https://img.shields.io/badge/GITHUB-GuguPx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuguPx)
 
 </div>
 
@@ -283,33 +283,12 @@ Only publicly verifiable credentials are included in this profile. Certification
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuguPx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=7C3AED" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuguPx&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=GuguPx&hide_border=true&background=0D1117&stroke=30363D&ring=A855F7&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GuguPx&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuguPx&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&hide_border=true" width="100%" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -319,7 +298,7 @@ Only publicly verifiable credentials are included in this profile. Certification
 
 <div align="center">
 
-> Contribution snake generation can be enabled through GitHub Actions without adding external credentials.
+<img src="./profile/snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -363,9 +342,9 @@ open_to:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-6D28D9?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/augusto-px-silva/)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GuguPx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-A855F7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/GuguPx?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-px-silva/)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuguPx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/GuguPx?tab=repositories)
 
 </div>
 
