@@ -298,7 +298,11 @@ Only publicly verifiable credentials are included in this profile. Certification
 
 <div align="center">
 
-<img src="./profile/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="./profile/snake.svg" />
+</picture>
 
 </div>
 
