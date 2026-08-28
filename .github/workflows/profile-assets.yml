@@ -43,10 +43,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v1
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: profile/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            profile/snake.svg?palette=github-light&color_snake=%23A855F7
+            profile/snake-dark.svg?palette=github-dark&color_snake=%23A855F7
 
       - name: Commit generated assets
         run: |
